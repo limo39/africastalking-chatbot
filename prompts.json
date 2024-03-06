@@ -1,6 +1,9 @@
 {
   "greeting": "Hello! How can I assist you today?",
   "help": "You can ask me about our products, services, or any other inquiries you may have.",
-  "farewell": "Goodbye! Have a great day!"
+  "farewell": "Goodbye! Have a great day!",
+  "product_info": "Sure, here is information about our products...",
+  "service_info": "Here are details about our services...",
+  "no_understand": "I'm sorry, I didn't understand. Please try again or type 'help' for assistance."
 }
 
